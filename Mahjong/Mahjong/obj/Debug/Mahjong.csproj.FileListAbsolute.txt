@@ -1,0 +1,9 @@
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Mahjong.dll.config
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Mahjong.dll
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Mahjong.pdb
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\obj\Debug\Mahjong.dll
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\obj\Debug\Mahjong.pdb
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Microsoft.Owin.dll
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Owin.dll
+D:\Programming\HTML & CSS\Mahjong_Areg\Mahjong\Mahjong\bin\Microsoft.Owin.xml
